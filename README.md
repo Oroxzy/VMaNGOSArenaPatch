@@ -19,9 +19,6 @@ Features:
  Todo:
   - Fix Scoreboard for same Faction games (maybe edit */Interface/FrameXML/WorldStateFrame.lua*). (edit: not possible i think)
   
- Try it:
-  - Goto (http://uterusone.net) and create your Account.
-
 All 3 TBC Arenas & Dalaran Arena from WotLK available to play as 1v1, 2v2, 3v3, 5v5:
 ![TBC Arena](https://i.imgur.com/p5IVD1l.jpg)
 
